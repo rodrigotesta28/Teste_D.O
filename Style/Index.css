@@ -1,0 +1,148 @@
+/*formatações obrigatorias*/
+body{
+    background: #26272b      
+}
+
+.primary{
+    color: #6c63ff;
+}
+
+p{
+    color: #929292;
+    text-align:justify;
+}
+
+.footerBackground{
+    background-color: #36373c;
+}
+
+.footerColor{
+    color:#fdfdfd;
+} 
+
+/*Configuração da grade*/
+.linha{
+    width: 1560px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 75px 0px;
+    
+}
+
+.coluna{
+    padding: 0px 10px;
+    float: left;
+}
+
+/*Tamanho das minhas colunas*/
+.col1{
+    width: 110px;
+}
+.col2{
+    width: 240px;
+}
+.col3{
+    width: 370px;
+}
+.col4{
+    width: 500px;
+}
+.col5{
+    width: 630px;
+}
+.col6{
+    width: 760px;
+}
+.col7{
+    width: 890px;
+}
+.col8{
+    width: 1020px;
+}
+.col9{
+    width: 1150px;
+}
+.col10{
+    width: 1280px;
+}
+.col11{
+    width: 1410px;
+}
+.col12{
+    width: 1540px;
+}
+
+/*formatações padrões*/
+footer{
+    color: white;
+    text-align: center;
+   
+
+}
+img{
+    width: 550px;
+    height: 330px;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    margin: 0px;
+
+}
+
+/* formulario */
+form{
+    width: 450px;
+}
+input{
+    width: 100%;
+    height: 55px;
+    background-color: transparent;
+    color:#929292;
+    border-radius: 5px;
+    border: solid 1px;
+    margin-bottom: 10px; 
+    font-family: Arial, Helvetica, sans-serif;  
+    padding: 0px;     
+}
+input.botao{
+    background-color:#6c63ff;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border: none;
+    margin-top: 40px;
+}
+/*cpM = campo Médio do input*/
+input.cpM{
+    width: 46%;
+}
+input.Direita{
+    float: right;
+}
+h3{
+    font-size: 20px;
+}
+ul{
+    padding: 0px;
+}
+li{
+    list-style-type: none;
+    margin-top: 10px;
+
+
+}
+.img3{
+    margin-top: 50px;
+}
+.escrita1{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
